@@ -3,7 +3,7 @@ import vercel from "@astrojs/vercel/serverless"
 import { defineConfig } from "astro/config"
 import { VitePWA } from "vite-plugin-pwa"
 
-// Helper imports
+// Helper imports nothing more
 import { manifest, seoConfig } from "./src/utils/seoConfig"
 
 // https://astro.build/config

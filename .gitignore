@@ -28,6 +28,7 @@ yarn.lock
 # .vs folder
 .vs/
 .idea
+.random/
 
 # generated vercel output
 .vercel/

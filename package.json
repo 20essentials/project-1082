@@ -7,6 +7,7 @@
     "start": "astro dev  --remote",
     "build": "astro build --remote",
     "preview": "astro preview",
+    "see": "astro see",
     "astro": "astro",
     "check": "astro check && tsc --noEmit",
     "lint": "eslint --ext .astro,.ts,.js,.tsx .",

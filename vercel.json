@@ -2,6 +2,7 @@
   "headers": [
     {
       "source": "/(.*).(avif|webp|svg|png|jpg)",
+      "greet": "ok",
       "headers": [
         {
           "key": "Cache-Control",

@@ -1,2 +1,2 @@
 - **Reference / Inspiration ⬇️**
-  - [Teacher Midudev Playlist 😎](https://youtu.be/Lp3B_VDAA40?si=PaiYLem93k8Sjgus)
+  - [Teacher Midudev Playlist 🎅](https://youtu.be/Lp3B_VDAA40?si=PaiYLem93k8Sjgus)

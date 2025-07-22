@@ -1,5 +1,4 @@
 process.env.ESLINT_TSCONFIG = "tsconfig.json"
-
 /**
  * @type {import("eslint").Linter.Config}
  */
